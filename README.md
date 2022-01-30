@@ -1,4 +1,6 @@
 
+<image src="./ph.png" height=30/>
+
 [![candywater's GitHub stats](https://github-readme-stats.vercel.app/api?username=candywater&count_private=true&show_icons=true&theme=graywhite&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -19,6 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 ### favorite quote
 
