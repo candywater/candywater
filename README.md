@@ -1,5 +1,5 @@
 
-<span class="sign" style="font-family:looking-flowers-script, sans-serif;   font-size:2.5rem;">Candy Water</span>
+<image src="./candywater.png" height=75 />
 
 [![candywater's GitHub stats](https://github-readme-stats.vercel.app/api?username=candywater&count_private=true&show_icons=true&theme=graywhite&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
