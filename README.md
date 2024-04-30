@@ -5,6 +5,8 @@
 
 [![candywater's GitHub stats](https://github-readme-stats.vercel.app/api?username=candywater&count_private=true&show_icons=true&theme=graywhite&hide=issues,contribs&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candywater&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **candywater/candywater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candywater)](https://github.com/anuraghazra/github-readme-stats)
