@@ -3,10 +3,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Hi+here+is+my+cyber+space!)](https://git.io/typing-svg) -->
 
-[![candywater's GitHub stats](https://github-readme-stats.vercel.app/api?username=candywater&count_private=true&show_icons=true&theme=graywhite&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+[![candywater's GitHub stats](https://github-readme-stats.vercel.app/api?username=candywater&count_private=true&show_icons=true&theme=graywhite&hide=issues,contribs&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **candywater/candywater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
