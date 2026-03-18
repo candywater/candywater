@@ -1,5 +1,5 @@
 
-<image src="./candywater.png" height=75 />
+<image src="./candywater.png" height=75 style="filter: invert(100%);" />
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Hi+here+is+my+cyber+space!)](https://git.io/typing-svg) -->
 
