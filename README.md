@@ -1,7 +1,6 @@
-
-<image src="./candywater.png" height=75 style="filter: invert(100%);" />
-
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Hi+here+is+my+cyber+space!)](https://git.io/typing-svg) -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=Candy+Water)](https://candywater.me)
 
 [![candywater's GitHub stats](https://github-readme-stats.vercel.app/api?username=candywater&count_private=true&show_icons=true&theme=dark&hide=issues,contribs&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
